@@ -4,3 +4,5 @@
 # Date : 2025-02-13
 
 print( "I am very familiar with git")
+print( "Hello Git")
+print( "This is a test file to check the git functionality")
